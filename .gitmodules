@@ -1,0 +1,3 @@
+[submodule "CTFd/themes/CTFd-Dark-Theme"]
+	path = CTFd/themes/CTFd-Dark-Theme
+	url = https://github.com/Milkdrop/CTFd-Dark-Theme
